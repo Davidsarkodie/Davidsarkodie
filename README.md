@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Davidsarkodie
 - 👀 I’m interested in blockchain technology and augmented reality
-- 🌱 I’m currently learning more of javascript and typescript
+- 🌱 I’m currently learning javascript frameworks
 - 💞️ I’m looking to collaborate on blockchain applications and argumented reality
 
 <!---
