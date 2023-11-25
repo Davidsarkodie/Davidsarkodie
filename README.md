@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Davidsarkodie
-- 👀 I’m interested in blockchain technology and augmented reality
-- 🌱 I’m currently learning javascript frameworks
-- 💞️ I’m looking to collaborate on blockchain applications and argumented reality
+- 👀 I’m interested in Data Analysis, Business Intelligence and Artificial Intelligence
+- 🌱 I’m currently improving my python and SQL expertise
+- 💞️ I’m looking to understand more about Deep RL
 
 <!---
 Davidsarkodie/Davidsarkodie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
