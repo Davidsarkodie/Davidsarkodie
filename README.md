@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Davidsarkodie
 - 👀 I’m interested in Data Analysis, Business Intelligence and Artificial Intelligence
-- 🌱 I’m currently improving my python and SQL expertise
+- 🌱 I’m currently improving my Python, SQL and Tableau expertise
 - 💞️ I’m looking to understand more about Deep RL
 
 <!---
