@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Davidsarkodie
-- 👀 I believe I'm a stretagist within Saas and technology as I have prior experience using social media platforms to increase traffic and user engagement which led to the increase in conversion rate.
-- 🌱 I’m currently looking for a sales role.
-- 💞️ In the future I will be an account executive and a top expert in the realms of Saas, Fintech and Web3 Dapps.
+- 👀 I believe I'm a stretagist within the uses of technology as I have prior experience using ux/ui design and social media platforms to increase traffic and user engagement which led to the increase in conversion rate.
+- 🌱 I’m currently looking for a marketing related role.
 
 <!---
 Davidsarkodie/Davidsarkodie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
